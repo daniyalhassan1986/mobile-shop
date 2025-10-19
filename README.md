@@ -31,14 +31,16 @@ Hi! I'm **Daniyal Hassan**, a passionate **front-end developer** and tech enthus
 I enjoy building creative, responsive, and functional websites that focus on user experience.
 
 🔗 **Portfolio:** https://mobile-shop-five-chi.vercel.app/
+
 📧 **Email:** daniyalhassan1986@example.com  
+
 🐙 **GitHub:** https://github.com/daniyalhassan1986/
 
 ---
 
 ## 📸 Preview
 
-![Website Preview](https://vercel.com/api/www/avatar?u=mobile-shop-five-chi.vercel.app)
+![Website Preview](https://mobile-shop-five-chi.vercel.app/)
 
 ---
 
