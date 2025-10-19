@@ -399,7 +399,9 @@
     <button class="scroll-top" id="scroll-top">
         <i class="fas fa-chevron-up"></i>
     </button>
+
 </body>
+
 <script src="js/script.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
 </html>
