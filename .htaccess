@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteBase /projects/Superfix/Superfix/
+
+# Remove .php from URL
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^(.*)$ $1.php [L]
+
+# Optional: default to index.php
+DirectoryIndex index.php
